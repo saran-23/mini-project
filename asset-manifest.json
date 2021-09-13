@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/saran-23.github.io/mini-project/static/css/main.523f09c5.chunk.css",
+    "main.js": "/saran-23.github.io/mini-project/static/js/main.34e18dfa.chunk.js",
+    "main.js.map": "/saran-23.github.io/mini-project/static/js/main.34e18dfa.chunk.js.map",
+    "runtime-main.js": "/saran-23.github.io/mini-project/static/js/runtime-main.24d9861c.js",
+    "runtime-main.js.map": "/saran-23.github.io/mini-project/static/js/runtime-main.24d9861c.js.map",
+    "static/js/2.4c88b277.chunk.js": "/saran-23.github.io/mini-project/static/js/2.4c88b277.chunk.js",
+    "static/js/2.4c88b277.chunk.js.map": "/saran-23.github.io/mini-project/static/js/2.4c88b277.chunk.js.map",
+    "index.html": "/saran-23.github.io/mini-project/index.html",
+    "precache-manifest.fc3f76591dd58cb4eb160daab45ca796.js": "/saran-23.github.io/mini-project/precache-manifest.fc3f76591dd58cb4eb160daab45ca796.js",
+    "service-worker.js": "/saran-23.github.io/mini-project/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/saran-23.github.io/mini-project/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.4c88b277.chunk.js.LICENSE.txt": "/saran-23.github.io/mini-project/static/js/2.4c88b277.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24d9861c.js",
+    "static/js/2.4c88b277.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.34e18dfa.chunk.js"
+  ]
+}
