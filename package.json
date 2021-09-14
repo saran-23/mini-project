@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/saran-23.github.io/mini-project/",
-   "name": "handpose",
+  "name": "handpose",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
